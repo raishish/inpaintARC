@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+sdist/
+*.egg-info/
+*.egg
+*.whl
+pip-log.txt
+pip-delete-this.txt
+*.lib
+*.tag
+*.lnk
+
+# Environments
+env/
+venv/
+.venv/
+
+# OS generated files
+.DS_Store
+*.log
+*.err
+*.out
