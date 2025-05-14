@@ -1,0 +1,10 @@
+{
+    "train": {
+        "split": "train",
+        "path": "rearc/train"
+    },
+    "test": {
+        "split": "test",
+        "path": "rearc/test"
+    }
+}
